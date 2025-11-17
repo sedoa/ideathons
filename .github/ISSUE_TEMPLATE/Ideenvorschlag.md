@@ -1,6 +1,6 @@
 ---
 name: "💡 Ideenvorschlag"
-about: "Reiche eine Idee für den Ideathon ein – alle Fragen sind freiwillig."
+about: "Reiche eine Idee für den Ideathon ein – alle Formularfelder sind optional."
 title: "[Idee] "
 labels: ["idea"]
 assignees: []
@@ -11,7 +11,7 @@ Bitte beantworte die folgenden Fragen (alle sind freiwillig):
 ---
 
 ### 1. Welches Problem wird adressiert?
-Beschreibe kurz das Problem oder die Herausforderung im Bereich **Kunstgeschichte**.
+Beschreibe kurz das Problem oder die fachliche Herausforderung.
 
 ---
 

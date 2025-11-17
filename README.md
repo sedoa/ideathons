@@ -4,4 +4,4 @@ This repo is a place to collect information pertaining to SeDOA ideathons. [SeDO
 
 A list of events can be found under the [events folder](https://github.com/sedoa/ideathons/tree/main/events).
 
-Find the issues [here](https://github.com/sedoa/ideathons/issues) 
+Find the issues [here](https://github.com/sedoa/ideathons/issues).

@@ -42,7 +42,7 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es n
 30.	Förderung von Kooperationsangeboten – Wissenstransfer Unis -> HAWs
 31.	Community Building für DOA Infrastrukturen
 32.	In der Kommunikation zu Wissenschaft vom Insider-Slang befreien
-33.	WisssenschaftlerInnen stärker in Entscheidungen über Zeitschriftenfinanzierung einbeziehen
+33.	WissenschaftlerInnen stärker in Entscheidungen über Zeitschriftenfinanzierung einbeziehen
 34.	Plattform für Kooperation von Redaktionen
 35.	Limit für Anzahl an Publikationen
 36.	Reputationssysteme, die schwieriger manipuliert werden können

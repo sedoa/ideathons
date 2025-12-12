@@ -1,7 +1,7 @@
+# Ideenfindungsphase
 In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es nach vorne an die Matrix geschafft haben, sind:
 
-**Ideen, die es auf die Matrix geschaft haben**
-
+## Ideen, die es auf die Matrix geschaft haben**
 1. Publish new kinds of things:
 - Nanopublications
 - Data reviews

@@ -19,7 +19,7 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es n
 7.	Editorial System mit AI-Integration (Grammatik-, Rechtschreibekorrektur, Verschlagwortung)
 8.	AI-unterstützte Artikel(-Template-)Erstellung + Metadaten Extraction + Anonymisierung
 9.	One-Repository Host – für diejenigen, die begrenzte/keine Ressourcen für eigenes Hosting haben
-10.	Should SeDOA host some shared infrastructure tha can be used in DOA workflows? E.g. OSS, Janeway, ShareTex, Pandoc, Jupyter books, …..? workflows
+10.	Should SeDOA host some shared infrastructure tha can be used in DOA workflows? E.g. OSS, Janeway, ShareLaTex, Pandoc, Jupyter books, …..? workflows
 11.	End-to-end Plattform für alle – Schreibprozess, Editorial process, Publikation
 12.	Bei Redaktionen Hinweise auf Workflow-Unterstützungsoptionen verbreiten (z.B. Sciflow)
 13.	OMP Plugins, z.B. für OS-APS-Reader

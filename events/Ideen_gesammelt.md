@@ -15,7 +15,7 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es n
 3. Dynamische Publikationsformen -> Data-Cycle -> Text / Knowledge Stack
 4. 3D-Publikation -> Vom digitalen zum ausstellbaren 3D-Druck (PDF nicht alleiniges Format)
 5.	KI-unterstütztes semantisches Tagging
-6.	AI & XML [XXX.T]
+6.	AI & XML 
 7.	Editorial System mit AI-Integration (Grammatik-, Rechtschreibekorrektur, Verschlagwortung)
 8.	AI-unterstützte Artikel(-Template-)Erstellung + Metadaten Extraction + Anonymisierung
 9.	One-Repository Host – für diejenigen, die begrenzte/keine Ressourcen für eigenes Hosting haben

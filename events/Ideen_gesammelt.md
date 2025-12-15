@@ -52,7 +52,7 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es n
 40.	Jeder kann publizieren / Bibliotheken bzw. Review-Prozesse vergeben Badges zu deren Vertrauenswürdigkeit
 41.	Initiative für „Research Integrity“ bei DOA-Publiaktionen
 
-## Ideen, die es nicht auf die Matrix geschafft haben (aber auch verdient hätten)
+## Ideen, die es nicht auf die Matrix geschafft haben (aber vielleicht auch verdient hätten)
 42. Infrastruktur-Partnerschaften für kleine DOA-Redaktionen
 43.	 Kurzgefasste Argumentationshilfen bereitstellen
 44.	 OJS (oder vergleichbar) für alle DOA-Zeitschriften als Infrastruktur

@@ -4,6 +4,7 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es n
 ## Ideen, die es auf die Matrix geschaft haben
 1. Publish new kinds of things:
 - Nanopublications
+- live interactive code
 - Data reviews
 - Reproducibility studies
 - Thank you notes
@@ -11,15 +12,21 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es n
 - Definitions
 - Software papers
 - Grant proposals
-2. Enhanced Publication -> Anreicherung von Publikationen mit Bildern / interaktiven Elementen
-3. Dynamische Publikationsformen -> Data-Cycle -> Text / Knowledge Stack
+- Visualisierung
+2. Enhanced Publications
+ - Anreicherung von Publikationen mit Bildern / interaktiven Elementen
+ - Dynamische Publikationsformen -> Data-Cycle -> Text / Knowledge Stack
+ - Enhances publications für kollaborative Forschung in virtuellen Umgebungen
+3. Publikationen mit Social-Media-Posts-Einbindung, z.B. in den Kulturwissenschaften
 4. 3D-Publikation -> Vom digitalen zum ausstellbaren 3D-Druck (PDF nicht alleiniges Format)
+5. Verbesserung der Metadatenqualität in DOAJ
 6. AI/KI
   - KI-unterstütztes semantisches Tagging
   - AI & XML
   - AI & Peer Review
   - Editorial System mit AI-Integration (Grammatik-, Rechtschreibekorrektur, Verschlagwortung)
   - AI-unterstützte Artikel(-Template-)Erstellung + Metadaten Extraction + Anonymisierung
+  - Stabilität von Schlussfolgerungen anhand KI als Qualitätskriterium für Paper [Plausibilitätsüberprüfung durch KI]
 9.	One-Repository Host – für diejenigen, die begrenzte/keine Ressourcen für eigenes Hosting haben
 10.	Should SeDOA host some shared infrastructure tha can be used in DOA workflows? E.g. OSS, Janeway, ShareLaTex, Pandoc, Jupyter books, …..? 
 11.	End-to-end Plattform für alle – Schreibprozess, Editorial process, Publikation
@@ -32,18 +39,19 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es n
   - Stärke Betonung „Barrierefreiheit“ bei DOA-Publikationen
   - Konsequent barrierefreies Publizieren
   - Braille publizieren
-19.	Stabilität von Schlussfolgerungen anhand KI als Qualitätskriterium für Paper [Plausibilitätsüberprüfung durch KI]
 20.	Zentrale datenschutzgerechte Plattform für Checks eingehender Manuskripte auf KI-Texte / Bildmanipulation / fake publications
-21.	Quality vs. Quantity Control Saving App (# Nachhaltigkeit)
+21.	Qualitätssicherung
+  - Quality vs. Quantity Control Saving App (# Nachhaltigkeit)
 22.	DOA und Open Science zusammen denken
 23. Finanzierung
-    - Transparente Finanzierung von Fachgesellschaften
-    - Förderverein zur Finanzierung einer DOA-Zeitschrift
-    - WissenschaftlerInnen stärker in Entscheidungen über Zeitschriftenfinanzierung einbeziehen
-    - Ausnahme im Haushaltsrecht zur Finanzierung von Infrastruktur oder großer Fond mit Verteilung
-    - Intergrierter Button für eine OA-Spende. Obwohl OA: Micropayment-Publikationen können AutorInnen mit ihren Publ. etwas verdienen, wenn gespendet wird
+  - Transparente Finanzierung von Fachgesellschaften
+  - Förderverein zur Finanzierung einer DOA-Zeitschrift
+  - WissenschaftlerInnen stärker in Entscheidungen über Zeitschriftenfinanzierung einbeziehen
+  - Ausnahme im Haushaltsrecht zur Finanzierung von Infrastruktur oder großer Fond mit Verteilung
+  - Intergrierter Button für eine OA-Spende. Obwohl OA: Micropayment-Publikationen können AutorInnen mit ihren Publ. etwas verdienen, wenn gespendet wird
 24.	DEAL umwandeln in -> Offene Infrastrukturen 
 25.	‚Glücksrad‘ für wissenschaftliches Feedback an Infrastruktureinrichtungen [nicht nur Rückmeldungen von denen, die immer antworten, sondern nach Zufallsprinzip -> bisher unerreichte Stakeholder ansprechen]
+26. Diamond Publikationsmöglichkeiten für Forschenden ohne institutionelle Anbindung
 29.	Editors Training
 30.	Förderung von Kooperationsangeboten – Wissenstransfer Unis -> HAWs
 31.	Community Building für DOA Infrastrukturen
@@ -87,3 +95,5 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es n
 69.	Zentrale Servicestelle für Layout, Satz etc.
 70.	Automatische Chat-Bot-Integration
 72.	Word-Plugin to submit
+73.	Multi-Layering: Methodology, Data, Narrative all in one article
+    

@@ -42,6 +42,7 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es n
 20.	Zentrale datenschutzgerechte Plattform für Checks eingehender Manuskripte auf KI-Texte / Bildmanipulation / fake publications
 21.	Qualitätssicherung
   - Quality vs. Quantity Control Saving App (# Nachhaltigkeit)
+  - BlogPosts peer review (wie Mittelalter-Blog)
 22.	DOA und Open Science zusammen denken
 23. Finanzierung
   - Transparente Finanzierung von Fachgesellschaften

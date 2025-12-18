@@ -19,7 +19,7 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. 41 davon haben e
 -	*„Modulare“ Publikationen*
 - *Micropublikation -> Makropublikation -> Geschwindigkeit kalibrieren*
 
-#### 2. Medienneutrales Publizieren, Plugins, Workflows
+#### 2. Medienneutrales Publizieren, v.a. durch Plugins, Workflows usw.
 
 - OMP Plugins, z.B. für OS-APS-Reader
 - Technische Austauschformate standardisieren

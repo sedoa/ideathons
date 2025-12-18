@@ -1,5 +1,5 @@
 # Ideenfindungsphase
-In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. 41 davon haben es nach vorne an die Matrix geschafft und wurden dort geclustert. Wir haben jetzt die verbliebenen 31 Ideen, die es nicht an die Matrix geschafft haben, noch hinzugefügt (kursiv). Insgesamt haben wir damit jetzt 65 Ideen auf 7 Cluster verteilt; bei den verbliebenen sieben Ideen handelt es sich um Solitäre, die schwer einzuordnen waren und deshalb in der eigenen Abteilung "Sonstige" zusammengefasst wurden.
+In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. 41 davon haben es nach vorne an die Matrix geschafft und wurden dort geclustert. Wir haben jetzt die verbliebenen 31 Ideen, die es nicht an die Matrix geschafft haben, noch hinzugefügt (zur besseren Nachvollziehbarkeit *kursiv* gesetzt). Insgesamt haben wir damit jetzt 65 Ideen auf 7 Cluster verteilt; bei den verbliebenen sieben Ideen handelt es sich um Solitäre, die schwer einzuordnen waren und deshalb in der eigenen Abteilung "Sonstige" zusammengefasst wurden.
 
 #### 1. Publikationsformate: Enhanced Publishing, dynamische Formate, Granularität
 

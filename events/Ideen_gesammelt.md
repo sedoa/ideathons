@@ -1,111 +1,106 @@
 # Ideenfindungsphase
-In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es nach vorne an die Matrix geschafft haben, sind:
-
-## Ideen, die es auf die Matrix geschaft haben
+In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. 41 davon haben es nach vorne an die Matrix geschafft und wurden dort geclustert. Wir haben jetzt die verbliebenen 31 Ideen, die es nicht an die Matrix geschafft haben, noch hinzugefügt (kursiv). Insgesamt haben wir damit jetzt 65 Ideen auf 7 Cluster verteilt; bei den verbliebenen sieben Ideen handelt es sich um Solitäre, die schwer einzuordnen waren und deshalb in der eigenen Abteilung "Sonstige" zusammengefasst wurden.
 
 #### 1. Publikationsformate: Enhanced Publishing, dynamische Formate, Granularität
 
-1. Publish new kinds of things:
-- Nanopublications
-- Data reviews
-- Reproducibility studies
-- Thank you notes
-- Hypotheses
-- Definitions
-- Software papers
-- Grant proposals
-2. Enhanced Publication -> Anreicherung von Publikationen mit Bildern / interaktiven Elementen
-3. Dynamische Publikationsformen -> Data-Cycle -> Text / Knowledge Stack
-4. 3D-Publikation -> Vom digitalen zum ausstellbaren 3D-Druck (PDF nicht alleiniges Format)
-26.	Braille publizieren
+- Publish new kinds of things:
+  * Nanopublications
+  * Data reviews
+  * Reproducibility studies
+  * Thank you notes
+  * Hypotheses
+  * Definitions
+  * Software papers
+  * Grant proposals
+- Enhanced Publication -> Anreicherung von Publikationen mit Bildern / interaktiven Elementen
+- Dynamische Publikationsformen -> Data-Cycle -> Text / Knowledge Stack
+- 3D-Publikation -> Vom digitalen zum ausstellbaren 3D-Druck (PDF nicht alleiniges Format)
+-	Braille publizieren
+-	*„Modulare“ Publikationen*
+- *Micropublikation -> Makropublikation -> Geschwindigkeit kalibrieren*
 
-#### 2. KI und Produktionsprozess
-  
-5.	KI-unterstütztes semantisches Tagging
-6.	AI & XML 
-7.	Editorial System mit AI-Integration (Grammatik-, Rechtschreibekorrektur, Verschlagwortung)
-8.	AI-unterstützte Artikel(-Template-)Erstellung + Metadaten Extraction + Anonymisierung
+#### 2. Medienneutrales Publizieren, Plugins, Workflows
 
-#### 3. Medienneutrales Publizieren
+- OMP Plugins, z.B. für OS-APS-Reader
+- Technische Austauschformate standardisieren
+- Einfach zu bedienende SSP-Workflows
+- Barrierefreiheits-Test-Tool
+- Stärke Betonung „Barrierefreiheit“ bei DOA-Publikationen
+-	*Konsequent barrierefreies Publizieren*
+-	*Interoperable Workflowmanagementsysteme*
+-	*XML-Workflow (Theorie und Praxis zusammenbringen)*
+-	*OJS / OMP Integration*
+- *Word-Plugin to submit*
 
-13.	OMP Plugins, z.B. für OS-APS-Reader
-14.	Technische Austauschformate standardisieren
-15.	Einfach zu bedienende SSP-Workflows
-16.	Barrierefreiheits-Test-Tool
-17.	Stärke Betonung „Barrierefreiheit“ bei DOA-Publikationen
- 
+#### 3. Shared Infrastructure / One Repository Host
 
-#### 4. Shared Infrastructure / One Repository Host
+- One-Repository Host – für diejenigen, die begrenzte/keine Ressourcen für eigenes Hosting haben
+- Should SeDOA host some shared infrastructure tha can be used in DOA workflows? E.g. OSS, Janeway, ShareLaTex, Pandoc, Jupyter books, …..? 
+- End-to-end Plattform für alle – Schreibprozess, Editorial process, Publikation
+- Plattform für Kooperation von Redaktionen
+- *Infrastruktur-Partnerschaften für kleine DOA-Redaktionen*
+- *OJS (oder vergleichbar) für alle DOA-Zeitschriften als Infrastruktur*
+- *Global OJS/OMP*
+- *Kostenloser Cloudservice für Gitlab-Website*
+-	*In what ways can we collaborate in building / improving / maintaining DOA workflows & infrastructure?*
+- *Zentrale Servicestelle für Layout, Satz etc.*
 
-9.	One-Repository Host – für diejenigen, die begrenzte/keine Ressourcen für eigenes Hosting haben
-10.	Should SeDOA host some shared infrastructure tha can be used in DOA workflows? E.g. OSS, Janeway, ShareLaTex, Pandoc, Jupyter books, …..? 
-11.	End-to-end Plattform für alle – Schreibprozess, Editorial process, Publikation
-34.	Plattform für Kooperation von Redaktionen
+#### 4. KI 
 
-#### 5. KI und Qualitätssicherung
+- KI-unterstütztes semantisches Tagging
+- AI & XML 
+- Editorial System mit AI-Integration (Grammatik-, Rechtschreibekorrektur, Verschlagwortung)
+- AI-unterstützte Artikel(-Template-)Erstellung + Metadaten Extraction + Anonymisierung
+- AI & Peer Review
+- Stabilität von Schlussfolgerungen anhand KI als Qualitätskriterium für Paper [Plausibilitätsüberprüfung durch KI]
+-	Zentrale datenschutzgerechte Plattform für Checks eingehender Manuskripte auf KI-Texte / Bildmanipulation / fake publications
+- *Automatische Chat-Bot-Integration*
 
-18.	AI & Peer Review
-19.	Stabilität von Schlussfolgerungen anhand KI als Qualitätskriterium für Paper [Plausibilitätsüberprüfung durch KI]
-20.	Zentrale datenschutzgerechte Plattform für Checks eingehender Manuskripte auf KI-Texte / Bildmanipulation / fake publications
+#### 5. Community Building / Kommunikation
 
-#### 6. Community Building / Kommunikation
+-	‚Glücksrad‘ für wissenschaftliches Feedback an Infrastruktureinrichtungen [nicht nur Rückmeldungen von denen, die immer antworten, sondern nach Zufallsprinzip -> bisher unerreichte Stakeholder ansprechen]
+-	Editors Training
+-	Förderung von Kooperationsangeboten – Wissenstransfer Unis -> HAWs
+-	Community Building für DOA Infrastrukturen
+-	In der Kommunikation zu Wissenschaft vom Insider-Slang befreien
+-	WissenschaftlerInnen stärker in Entscheidungen über Zeitschriftenfinanzierung einbeziehen	
+- *Kurzgefasste Argumentationshilfen bereitstellen*
+-	*Info-Paket DOA: Vorlagen: Mail, Blog-Post, Slides, Poster, Flyer, Social media*
 
-25.	‚Glücksrad‘ für wissenschaftliches Feedback an Infrastruktureinrichtungen [nicht nur Rückmeldungen von denen, die immer antworten, sondern nach Zufallsprinzip -> bisher unerreichte Stakeholder ansprechen]
-29.	Editors Training
-30.	Förderung von Kooperationsangeboten – Wissenstransfer Unis -> HAWs
-31.	Community Building für DOA Infrastrukturen
-32.	In der Kommunikation zu Wissenschaft vom Insider-Slang befreien
-33.	WissenschaftlerInnen stärker in Entscheidungen über Zeitschriftenfinanzierung einbeziehen
+#### 6. Qualität und Reputationsökonomie
 
-#### 7. Qualität und Reputationsökonomie
+-	Quality vs. Quantity Control Saving App (# Nachhaltigkeit)
+-	Limit für Anzahl an Publikationen
+-	Reputationssysteme, die schwieriger manipuliert werden können
+-	Publikationsflut-Eindämmungsmaschine bauen
+-	Tätigkeit bei einer Diamond-Zeitschrift zählt mehr als Impact Factor
+-	Qualität einer Publikation messen!? -> Versionierung -> wie oft überarbeitet?
+-	Jeder kann publizieren / Bibliotheken bzw. Review-Prozesse vergeben Badges zu deren Vertrauenswürdigkeit
+-	Initiative für „Research Integrity“ bei DOA-Publiaktionen
+-	*Zentrale ‚author blacklist‘ für Namen, die nachgewiesen Betrugsversuche machen*
+- *Den „Gegner“ identifizieren und benennen: Wissenschaftsbetrug, „Fake Mafia“, Problem KI*
+-	*Fraud-proof publishing (no Blockchain)*
+- *Vernetzung zwischen Wissenschaft und Publikationswesen institutionalisieren -> neue Anreizstrukturen, zielgerichtete Publikationsangebote*
+- *Data-Steward-Analogon für DOA-Publikationen [= Position eines ‚Qualitätssicherers‘ für DOA]*
 
-21.	Quality vs. Quantity Control Saving App (# Nachhaltigkeit)
-35.	Limit für Anzahl an Publikationen
-36.	Reputationssysteme, die schwieriger manipuliert werden können
-37.	Publikationsflut-Eindämmungsmaschine bauen
-38.	Tätigkeit bei einer Diamond-Zeitschrift zählt mehr als Impact Factor
-39.	Qualität einer Publikation messen!? -> Versionierung -> wie oft überarbeitet?
-40.	Jeder kann publizieren / Bibliotheken bzw. Review-Prozesse vergeben Badges zu deren Vertrauenswürdigkeit
-41.	Initiative für „Research Integrity“ bei DOA-Publiaktionen
+#### 7. Finanzen
 
-#### 8. Sonstige
+-	Transparente Finanzierung von Fachgesellschaften
+-	DEAL -> Offene Infrastrukturen 
+-	Förderverein zur Finanzierung einer DOA-Zeitschrift
+-	Spenderbutton. Obwohl OA: Micropayment-Publikationen können AutorInnen mit ihren Publ. etwas verdienen, wenn gespendet wird
+-	*Umverteilung von Erwerbungs- und Lizenzbudgets nach DOA*
+-	*Tool zur Berechnung von Kosten für Journalbetrieb*
+- *Rettungsfond für kurzzeitige Überbrückung bei Geld / Personalmangel*
+-	*In what ways can / should commercial players be involved (or not) in DOA workflows?*
+-	*Ausnahme im Haushaltsrecht zur Finanzierung von Infrastruktur oder großer Fond mit Verteilung*
 
-12.	Bei Redaktionen Hinweise auf Workflow-Unterstützungsoptionen verbreiten (z.B. Sciflow)
-22.	DOA und Open Science zusammen denken
-23.	Transparente Finanzierung von Fachgesellschaften
-24.	DEAL -> Offene Infrastrukturen 
-27.	Förderverein zur Finanzierung einer DOA-Zeitschrift
-28.	Spenderbutton. Obwohl OA: Micropayment-Publikationen können AutorInnen mit ihren Publ. etwas verdienen, wenn gespendet wird
+#### 8. Sonstiges
 
-## Ideen, die es nicht auf die Matrix geschafft haben (aber vielleicht auch verdient hätten)
-42. Infrastruktur-Partnerschaften für kleine DOA-Redaktionen
-43.	 Kurzgefasste Argumentationshilfen bereitstellen
-44.	 OJS (oder vergleichbar) für alle DOA-Zeitschriften als Infrastruktur
-45.	 Global OJS/OMP
-46.	 Kostenloser Cloudservice für Gitlab-Website
-47.	DOA Prozessmanagement (welche Prozesse haben und brauchen wir?)
-48.	 XML-Workflow (Theorie und Praxis zusammenbringen)
-49.	 Konsequent barrierefreies Publizieren
-50.	 AutorInnen-Vertragsgenerator
-51.	 Tool zur Berechnung von Kosten für Journalbetrieb
-52.	 Zentrale ‚author blacklist‘ für Namen, die nachgewiesen Betrugsversuche machen
-53.	 Rettungsfond für kurzzeitige Überbrückung bei Geld / Personalmangel
-54.	 Interoperable Workflowmanagementsysteme 
-55.	 Umverteilung von Erwerbungs- und Lizenzbudgets nach DOA
-56.	 Starter-Kit DOA: „Ihr Weg zur DOA-Veröffentlichung“
-57.	 Info-Paket DOA: Vorlagen: Mail, Blog-Post, Slides, Poster, Flyer, Social media
-58.	 Den „Gegner“ identifizieren und benennen: Wissenschaftsbetrug, „Fake Mafia“, Problem KI
-59.	 Neue Indizierungsdienste
-60.	 „Modulare“ Publikationen
-61.	 In what ways can we collaborate in building / improving / maintaining DOA workflows & infrastructure?
-62.	 In what ways can / should commercial players be involved (or not) in DOA workflows?
-63.	 DOA platforms via gGmbH betreiben?
-64.	 Fraud-proof publishing (no Blockchain)
-65.	 Micropublikation -> Makropublikation -> Geschwindigkeit kalibrieren
-66.	 OJS / OMP Integration
-67.	 Vernetzung zwischen Wissenschaft und Publikationswesen institutionalisieren -> neue Anreizstrukturen, zielgerichtete Publikationsangebote
-68.	 Data-Steward-Analogon für DOA-Publikationen [= Position eines ‚Qualitätssicherers‘ für DOA]
-69.	 Zentrale Servicestelle für Layout, Satz etc.
-70.	 Automatische Chat-Bot-Integration
-71.	 Ausnahme im Haushaltsrecht zur Finanzierung von Infrastruktur oder großer Fond mit Verteilung
-72.	 Word-Plugin to submit
+-	Bei Redaktionen Hinweise auf Workflow-Unterstützungsoptionen verbreiten (z.B. Sciflow)
+-	DOA und Open Science zusammen denken
+- *DOA Prozessmanagement (welche Prozesse haben und brauchen wir?)*
+-	*AutorInnen-Vertragsgenerator*
+-	*Starter-Kit DOA: „Ihr Weg zur DOA-Veröffentlichung“*
+-	*Neue Indizierungsdienste*
+-	*DOA platforms via gGmbH betreiben?*

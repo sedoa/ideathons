@@ -2,6 +2,9 @@
 In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es nach vorne an die Matrix geschafft haben, sind:
 
 ## Ideen, die es auf die Matrix geschaft haben
+
+#### 1. Publikationsformate: Enhanced Publishing, dynamische Formate, Granularität
+
 1. Publish new kinds of things:
 - Nanopublications
 - Data reviews
@@ -14,36 +17,49 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es n
 2. Enhanced Publication -> Anreicherung von Publikationen mit Bildern / interaktiven Elementen
 3. Dynamische Publikationsformen -> Data-Cycle -> Text / Knowledge Stack
 4. 3D-Publikation -> Vom digitalen zum ausstellbaren 3D-Druck (PDF nicht alleiniges Format)
+26.	Braille publizieren
+
+#### 2. KI und Produktionsprozess
+  
 5.	KI-unterstütztes semantisches Tagging
 6.	AI & XML 
 7.	Editorial System mit AI-Integration (Grammatik-, Rechtschreibekorrektur, Verschlagwortung)
 8.	AI-unterstützte Artikel(-Template-)Erstellung + Metadaten Extraction + Anonymisierung
-9.	One-Repository Host – für diejenigen, die begrenzte/keine Ressourcen für eigenes Hosting haben
-10.	Should SeDOA host some shared infrastructure tha can be used in DOA workflows? E.g. OSS, Janeway, ShareLaTex, Pandoc, Jupyter books, …..? 
-11.	End-to-end Plattform für alle – Schreibprozess, Editorial process, Publikation
-12.	Bei Redaktionen Hinweise auf Workflow-Unterstützungsoptionen verbreiten (z.B. Sciflow)
+
+#### 3. Medienneutrales Publizieren
+
 13.	OMP Plugins, z.B. für OS-APS-Reader
 14.	Technische Austauschformate standardisieren
 15.	Einfach zu bedienende SSP-Workflows
 16.	Barrierefreiheits-Test-Tool
 17.	Stärke Betonung „Barrierefreiheit“ bei DOA-Publikationen
+ 
+
+#### 4. Shared Infrastructure / One Repository Host
+
+9.	One-Repository Host – für diejenigen, die begrenzte/keine Ressourcen für eigenes Hosting haben
+10.	Should SeDOA host some shared infrastructure tha can be used in DOA workflows? E.g. OSS, Janeway, ShareLaTex, Pandoc, Jupyter books, …..? 
+11.	End-to-end Plattform für alle – Schreibprozess, Editorial process, Publikation
+34.	Plattform für Kooperation von Redaktionen
+
+#### 5. KI und Qualitätssicherung
+
 18.	AI & Peer Review
 19.	Stabilität von Schlussfolgerungen anhand KI als Qualitätskriterium für Paper [Plausibilitätsüberprüfung durch KI]
 20.	Zentrale datenschutzgerechte Plattform für Checks eingehender Manuskripte auf KI-Texte / Bildmanipulation / fake publications
-21.	Quality vs. Quantity Control Saving App (# Nachhaltigkeit)
-22.	DOA und Open Science zusammen denken
-23.	Transparente Finanzierung von Fachgesellschaften
-24.	DEAL -> Offene Infrastrukturen 
+
+#### 6. Community Building / Kommunikation
+
 25.	‚Glücksrad‘ für wissenschaftliches Feedback an Infrastruktureinrichtungen [nicht nur Rückmeldungen von denen, die immer antworten, sondern nach Zufallsprinzip -> bisher unerreichte Stakeholder ansprechen]
-26.	Braille publizieren
-27.	Förderverein zur Finanzierung einer DOA-Zeitschrift
-28.	Spenderbutton. Obwohl OA: Micropayment-Publikationen können AutorInnen mit ihren Publ. etwas verdienen, wenn gespendet wird
 29.	Editors Training
 30.	Förderung von Kooperationsangeboten – Wissenstransfer Unis -> HAWs
 31.	Community Building für DOA Infrastrukturen
 32.	In der Kommunikation zu Wissenschaft vom Insider-Slang befreien
 33.	WissenschaftlerInnen stärker in Entscheidungen über Zeitschriftenfinanzierung einbeziehen
-34.	Plattform für Kooperation von Redaktionen
+
+#### 7. Qualität und Reputationsökonomie
+
+21.	Quality vs. Quantity Control Saving App (# Nachhaltigkeit)
 35.	Limit für Anzahl an Publikationen
 36.	Reputationssysteme, die schwieriger manipuliert werden können
 37.	Publikationsflut-Eindämmungsmaschine bauen
@@ -51,6 +67,15 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. Die 41, die es n
 39.	Qualität einer Publikation messen!? -> Versionierung -> wie oft überarbeitet?
 40.	Jeder kann publizieren / Bibliotheken bzw. Review-Prozesse vergeben Badges zu deren Vertrauenswürdigkeit
 41.	Initiative für „Research Integrity“ bei DOA-Publiaktionen
+
+#### 8. Sonstige
+
+12.	Bei Redaktionen Hinweise auf Workflow-Unterstützungsoptionen verbreiten (z.B. Sciflow)
+22.	DOA und Open Science zusammen denken
+23.	Transparente Finanzierung von Fachgesellschaften
+24.	DEAL -> Offene Infrastrukturen 
+27.	Förderverein zur Finanzierung einer DOA-Zeitschrift
+28.	Spenderbutton. Obwohl OA: Micropayment-Publikationen können AutorInnen mit ihren Publ. etwas verdienen, wenn gespendet wird
 
 ## Ideen, die es nicht auf die Matrix geschafft haben (aber vielleicht auch verdient hätten)
 42. Infrastruktur-Partnerschaften für kleine DOA-Redaktionen

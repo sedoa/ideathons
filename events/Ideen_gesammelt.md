@@ -21,7 +21,7 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. 41 davon haben e
 
 #### 2. Medienneutrales Publizieren, v.a. durch Plugins, Workflows usw.
 
-- OMP Plugins, z.B. für OS-APS-Reader
+- OMP Plugins, z.B. für OS-APS-Reader. OMP in der Funktionalität von OJS
 - Technische Austauschformate standardisieren
 - Einfach zu bedienende SSP-Workflows
 - Barrierefreiheits-Test-Tool

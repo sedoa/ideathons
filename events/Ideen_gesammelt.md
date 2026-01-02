@@ -76,7 +76,7 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. 41 davon haben e
 -	Tätigkeit bei einer Diamond-Zeitschrift zählt mehr als Impact Factor
 -	Qualität einer Publikation messen!? -> Versionierung -> wie oft überarbeitet?
 -	Jeder kann publizieren / Bibliotheken bzw. Review-Prozesse vergeben Badges zu deren Vertrauenswürdigkeit
--	Initiative für „Research Integrity“ bei DOA-Publiaktionen
+-	Initiative für „Research Integrity“ bei DOA-Publikationen
 -	*Zentrale ‚author blacklist‘ für Namen, die nachgewiesen Betrugsversuche machen*
 - *Den „Gegner“ identifizieren und benennen: Wissenschaftsbetrug, „Fake Mafia“, Problem KI*
 -	*Fraud-proof publishing (no Blockchain)*

@@ -35,7 +35,7 @@ In der Ideenfindungsphase haben wir insgesamt 72 Ideen notiert. 41 davon haben e
 #### 3. Shared Infrastructure / One Repository Host
 
 - One-Repository Host – für diejenigen, die begrenzte/keine Ressourcen für eigenes Hosting haben
-- Should SeDOA host some shared infrastructure tha can be used in DOA workflows? E.g. OSS, Janeway, ShareLaTex, Pandoc, Jupyter books, …..? 
+- Should SeDOA host some shared infrastructure that can be used in DOA workflows? E.g. OSS, Janeway, ShareLaTex, Pandoc, Jupyter books, …..? 
 - End-to-end Plattform für alle – Schreibprozess, Editorial process, Publikation
 - Plattform für Kooperation von Redaktionen
 - *Infrastruktur-Partnerschaften für kleine DOA-Redaktionen*
